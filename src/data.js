@@ -1,7 +1,7 @@
 // Ganti data di file ini untuk membuat undangan pasangan lain.
 export const invitation = {
-  partnerOne: "Muhammad Firmansyah",
-  partnerTwo: "Fadia Octaviani, S.Pd",
+  partnerOne: "Fulan",
+  partnerTwo: "Fulanah",
   shortQuote: "Dua jiwa, satu cerita, dalam restu dan cinta.",
   dateLabel: "Minggu, 15 Juni 2025",
   dateISO: "2025-06-15T08:00:00+08:00", // Format: YYYY-MM-DDTHH:mm:ss+08:00
